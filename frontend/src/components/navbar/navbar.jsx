@@ -33,6 +33,7 @@ const Navbar = () => {
 					<img
 						src="https://images.pexels.com/photos/12627287/pexels-photo-12627287.jpeg?cs=srgb&dl=pexels-norma-gabriela-galván-12627287.jpg&fm=jpg&_gl=1*l26btu*_ga*MTQ0NDIwMzU5OC4xNjY3MDIyMjU2*_ga_8JE65Q40S6*MTY2NzAyMjI1Ny4xLjEuMTY2NzAyMjM5MC4wLjAuMA.."
 						alt=""
+						loading="lazy"
 					/>
 					<span>Lalu Ibnu</span>
 				</div>
